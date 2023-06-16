@@ -13,8 +13,12 @@ import { useEffect, useState } from "react";
 function App() {
   //State
   const [products, setProducts] = useState([]);
-  //Variable de entorno
-  const URL = process.env.REACT_APP_API_CAFETERIA;
+  //Consumo de Variable de entorno CRA
+  //const URL = process.env.REACT_APP_API_CAFETERIA;
+  //Consumo de Variable de entorno VITE.JS
+  const URL=import.meta.env.VITE_API_CAFETERIA;
+
+  console.log('URL-ENV_VAR', URL);
 
   useEffect(() => {
     getApi();

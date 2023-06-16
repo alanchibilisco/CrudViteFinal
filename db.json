@@ -10,7 +10,7 @@
     {
       "productName": "Licuado",
       "price": "80",
-      "urlImg": "https://t1.uc.ltmcdn.com/images/4/2/9/img_como_hacer_licuado_de_banana_35924_600_square.jpg",
+      "urlImg": "https://www.paulinacocina.net/wp-content/uploads/2022/01/licuado-de-banana.jpg",
       "category": "bebida-fria",
       "id": 2
     },
@@ -24,7 +24,7 @@
     {
       "productName": "Tostado Mixto",
       "price": "50",
-      "urlImg": "https://t2.uc.ltmcdn.com/images/0/6/9/img_como_hacer_un_sandwich_mixto_33960_600_square.jpg",
+      "urlImg": "https://us.123rf.com/450wm/kabvisio/kabvisio1610/kabvisio161000026/64200745-presionado-y-tostado-panini-con-doble-s%C3%A1ndwich-mixto-se-presentan-en-el-documento-sobre-una-mesa-de.jpg",
       "category": "sandwitch",
       "id": 4
     },
@@ -34,6 +34,13 @@
       "urlImg": "https://hornomx.com/wp-content/uploads/2019/04/croissants-recipe-hornomx-FG-500x500.jpg",
       "category": "dulce",
       "id": 5
+    },
+    {
+      "productName": "Sopa Tomate",
+      "price": "1200",
+      "urlImg": "https://www.justspices.es/media/recipe/sopa-de-tomate-sabrosa.jpg",
+      "category": "dulce",
+      "id": 6
     }
   ]
 }
